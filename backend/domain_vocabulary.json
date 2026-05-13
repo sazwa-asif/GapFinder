@@ -1,0 +1,57 @@
+{
+  "medical": [
+    "clinical",
+    "diagnosis",
+    "treatment",
+    "patient",
+    "disease"
+  ],
+  "legal": [
+    "jurisdiction",
+    "liability",
+    "contract",
+    "statute",
+    "compliance"
+  ],
+  "cs": [
+    "algorithm",
+    "neural",
+    "network",
+    "data",
+    "optimization"
+  ],
+  "physics": [
+    "quantum",
+    "particle",
+    "force",
+    "energy",
+    "motion"
+  ],
+  "biology": [
+    "cell",
+    "gene",
+    "protein",
+    "organism",
+    "evolution"
+  ],
+  "finance": [
+    "asset",
+    "risk",
+    "market",
+    "investment",
+    "portfolio"
+  ],
+  "psychology": [
+    "behavior",
+    "cognition",
+    "memory",
+    "perception",
+    "emotion"
+  ],
+  "interdisciplinary": [
+    "multimodal",
+    "hybrid",
+    "fusion",
+    "integration"
+  ]
+}

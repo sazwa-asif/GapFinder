@@ -1,0 +1,11 @@
+# FastAPI Backend
+uvicorn
+fastapi
+python-multipart
+pydantic
+numpy
+scikit-learn>=1.3.0
+sentence-transformers
+pymupdf
+cachetools
+
